@@ -1,0 +1,11 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+
+faker=12.3.3=pypi_0
+faker-food=0.1.0=pypi_0
+ipykernel=6.15.2=py310hecd8cb5_0
+ipython=8.6.0=py310hecd8cb5_0
+pandas=1.5.1=py310h3ea8b11_0
+pip=22.2.2=py310hecd8cb5_0
+sqlalchemy=1.4.39=py310hca72f7f_0
